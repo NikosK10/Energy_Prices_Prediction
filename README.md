@@ -1,4 +1,4 @@
-# Energy_Prices_Predictions
+# Energy_Prices_Prediction
 
 In this project, we aim to predict electrical energy prices using Machine Learning and Deep Learning methods. Specifically, we are given a dummy dataset containing features such as date, temperature, electricity demand, wind speed, solar radiation, weekday, and electricity price, among others. Our goal is to predict the price at a specific hour of the day.
 
